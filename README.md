@@ -48,8 +48,7 @@ Provides a real-time overview of hospital performance.
 
 ---
 
-![Executive Dashboard](<img width="557" height="732" alt="Hospital_Executive_Dashboard_1" src="https://github.com/user-attachments/assets/6540fec3-8547-4a9e-944e-8947aab741f1" />
-)
+![Executive Dashboard]
 
 ---
 
@@ -68,7 +67,7 @@ Focuses on clinical performance and treatment analysis.
 
 ---
 
-![Clinical Analytics](Hospital_Executive_Dashboard_1.png)
+![Clinical Analytics]
 
 ---
 
@@ -88,10 +87,7 @@ Interactive patient-level records for operational analysis.
 
 ---
 
-![Hospital Records](Images/Page3_Hospital_Records.png)
-
----
-
+![Hospital Records]                                                                                                                                                                
 ## 💡 Page 4 – Business Insights
 
 Executive summary and strategic recommendations.
@@ -106,8 +102,7 @@ Executive summary and strategic recommendations.
 
 ---
 
-![Business Insights](Images/Page4_Business_Insights.png)
-
+![Business Insights]
 ---
 
 # 📈 Key Performance Indicators
@@ -228,9 +223,11 @@ Hospital-Management-Dashboard-PowerBI
 
 # 👨‍💻 Developed By
 
-**Vikas Singh**
+**Vivek Singh**
 
-Technical Data Analyst
+Linkdln  (https://www.linkedin.com/in/vivek-singh-044b5527b/)
+
+Technical Data Analyst 
 
 - Power BI
 - SQL
