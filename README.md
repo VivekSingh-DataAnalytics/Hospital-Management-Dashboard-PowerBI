@@ -48,7 +48,8 @@ Provides a real-time overview of hospital performance.
 
 ---
 
-![Executive Dashboard]()
+![Executive Dashboard](<img width="557" height="732" alt="Hospital_Executive_Dashboard_1" src="https://github.com/user-attachments/assets/6540fec3-8547-4a9e-944e-8947aab741f1" />
+)
 
 ---
 
