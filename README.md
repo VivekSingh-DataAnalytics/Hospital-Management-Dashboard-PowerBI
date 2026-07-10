@@ -67,7 +67,7 @@ Focuses on clinical performance and treatment analysis.
 
 ---
 
-![Clinical Analytics](Images/Page2_Clinical_Analytics.png)
+![Clinical Analytics](Hospital_Executive_Dashboard_1.png)
 
 ---
 
